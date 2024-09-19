@@ -1,2 +1,2 @@
-# Frontend_Magenta
-Mantenance General Tasks
+# cascaron-frontend
+Plantilla Dashboard para proyectos Angular
