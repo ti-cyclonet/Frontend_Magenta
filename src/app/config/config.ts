@@ -1,5 +1,5 @@
-export const NAME_APP_LONG = "AUTHORIZA - Access control for CycloNet applications.";
-export const NAME_APP_SHORT = "AUTHORIZA";
+export const NAME_APP_LONG = "MAGENTA - Management General Task.";
+export const NAME_APP_SHORT = "MAGENTA";
 export const DESCRIPTION_APP = "Access control for CycloNet applications.";
 
 //Rutas para el control de acceso
@@ -18,7 +18,7 @@ export const ROOT_HOME = 'home';
 export const ROOT_CONFIGURATION= 'setup';
 
 //Variables para definir el color
-export const HEADER_BACKGROUND_COLOR = '#6600CC'
+export const HEADER_BACKGROUND_COLOR = '#33bbff'
 export const HEADER_ICON_COLOR = '#000000'
 export const SIDEBAR_BACKGROUND_COLOR = '#6E6E6E'
 export const PRIMARY_TEXT_COLOR = '#99CCFF';
